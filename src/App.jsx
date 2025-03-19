@@ -1,4 +1,4 @@
-import WsiViewer from "./components/wsiViewer";
+import WsiViewer from "./components/WsiViewer";
 
 function App() {
   return (
